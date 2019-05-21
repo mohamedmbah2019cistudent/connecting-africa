@@ -32,3 +32,14 @@ The Contact info:Is my contact information.
 #Media is the images that can show you about the beauty of Africa and invesment.
 
 #The footer tell you about my plan and other usefull site.
+#The footer tell you about my plan and other usefull site.
+#HTML ~ main Language used to structure the individual pages of the website.
+#CSS ~ styling language used to format and visually build upon the accompanying HTML.
+#Bootstrap Framework ~ Used as the core structuring layout building blocks of the website, ensuring mobile-frist design and responsive size display.
+#PyCharm IDE ~ PyCharm was used as the preferred IDE for this project.
+#PyCharm built-in Terminal ~ Used to commit to local repository and further push to Github Repo ensuring version controlling of the project build.
+#Github ~ Used to host the deployed website and repository of all previous versions of the build.
+Used to compress images used throughout the website without affecting image quality/integrity.
+Throughout the project build life, testing the responsiveness of elements and CSS Open used to obtain hexadecimal/rgba/hsl values of colours. 
+Built by Kepi (Kepi's Github)Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
+
